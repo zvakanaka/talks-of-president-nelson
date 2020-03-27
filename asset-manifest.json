@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/talks-of-president-nelson/static/js/main.747ef475.chunk.js",
+    "main.js.map": "/talks-of-president-nelson/static/js/main.747ef475.chunk.js.map",
+    "runtime~main.js": "/talks-of-president-nelson/static/js/runtime~main.96190075.js",
+    "runtime~main.js.map": "/talks-of-president-nelson/static/js/runtime~main.96190075.js.map",
+    "static/js/2.29cae8e5.chunk.js": "/talks-of-president-nelson/static/js/2.29cae8e5.chunk.js",
+    "static/js/2.29cae8e5.chunk.js.map": "/talks-of-president-nelson/static/js/2.29cae8e5.chunk.js.map",
+    "index.html": "/talks-of-president-nelson/index.html",
+    "precache-manifest.1fc7a2e41f545ec24c092467f1796faf.js": "/talks-of-president-nelson/precache-manifest.1fc7a2e41f545ec24c092467f1796faf.js",
+    "service-worker.js": "/talks-of-president-nelson/service-worker.js"
+  }
+}
