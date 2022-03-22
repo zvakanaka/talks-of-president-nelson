@@ -1,6 +1,21 @@
 {
-  "count": 99,
+  "count": 102,
   "talks": [
+    {
+      "title": "Make Time for the Lord",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson",
+      "time": "October 2021"
+    },
+    {
+      "title": "The Temple and Your Spiritual Foundation",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/47nelson",
+      "time": "October 2021"
+    },
+    {
+      "title": "Pure Truth, Pure Doctrine, and Pure Revelation",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/11nelson",
+      "time": "October 2021"
+    },
     {
       "title": "COVID-19 and Temples",
       "href": "https://www.churchofjesuschrist.org/study/general-conference/2021/04/57nelson",
@@ -494,7 +509,7 @@
     {
       "title": "Call to the Holy Apostleship",
       "href": "https://www.churchofjesuschrist.org/study/general-conference/1984/04/call-to-the-holy-apostleship",
-      "time": "April 1984"
+      "time": "April 1984"    
     }
   ]
 }
