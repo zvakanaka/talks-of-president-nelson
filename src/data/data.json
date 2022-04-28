@@ -1,6 +1,21 @@
 {
-  "count": 102,
+  "count": 105,
   "talks": [
+    {
+      "title": "Now Is the Time",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/58nelson",
+      "time": "April 2022"
+    },
+    {
+      "title": "The Power of Spiritual Momentum",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/47nelson",
+      "time": "April 2022"
+    },
+    {
+      "title": "Preaching the Gospel of Peace",
+      "href": "https://www.churchofjesuschrist.org/study/general-conference/2022/04/11nelson",
+      "time": "April 2022"
+    },
     {
       "title": "Make Time for the Lord",
       "href": "https://www.churchofjesuschrist.org/study/general-conference/2021/10/59nelson",
@@ -509,7 +524,7 @@
     {
       "title": "Call to the Holy Apostleship",
       "href": "https://www.churchofjesuschrist.org/study/general-conference/1984/04/call-to-the-holy-apostleship",
-      "time": "April 1984"    
+      "time": "April 1984"
     }
   ]
 }
