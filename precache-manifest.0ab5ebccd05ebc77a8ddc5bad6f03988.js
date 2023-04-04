@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3e663a216febd87f7389190f2e5afbe2",
+    "revision": "8ab8aa2b229313bd9488ed68e0f9c6a7",
     "url": "/talks-of-president-nelson/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/talks-of-president-nelson/static/js/2.f71181f4.chunk.js"
   },
   {
-    "revision": "1a6e923eec84f4ae841e",
-    "url": "/talks-of-president-nelson/static/js/main.7cbeab2f.chunk.js"
+    "revision": "450b71d965e3c97a052b",
+    "url": "/talks-of-president-nelson/static/js/main.1315c012.chunk.js"
   },
   {
     "revision": "2c20ed6486f3e8442cf1",
