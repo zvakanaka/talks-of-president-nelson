@@ -62,7 +62,7 @@ export default function App() {
                <Flex> 
                   <Link
                     isExternal
-                    href="https://www.churchofjesuschrist.org/general-conference/speakers/archive?speaker=Russell%20M.%20Nelson&lang=eng&page=1"
+                    href="https://www.churchofjesuschrist.org/study/general-conference/speakers/russell-m-nelson"
                   >
                     Talks of President Nelson
                   </Link>
