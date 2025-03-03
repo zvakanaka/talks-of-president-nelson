@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/talks-of-president-nelson/precache-manifest.71e8e25ac17639f06c2bc726b5353634.js"
+  "/talks-of-president-nelson/precache-manifest.4e9a0f5c85833b3732a703191ae6895b.js"
 );
 
 self.addEventListener('message', (event) => {
